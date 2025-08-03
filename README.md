@@ -217,16 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [Open an issue](https://github.com/your-username/whack-a-mole/issues)
 - 💡 **Feature Requests**: [Start a discussion](https://github.com/your-username/whack-a-mole/discussions)
-- 📧 **Contact**: your-email@example.com
 
 ---
 
-<div align="center">
-
-**🎯 Ready to test your reflexes? [Play Whack-A-Mole Deluxe](https://your-username.github.io/whack-a-mole) now! 🏆**
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
-
-⭐ **Star this repo if you enjoyed the game!** ⭐
-
-</div>
